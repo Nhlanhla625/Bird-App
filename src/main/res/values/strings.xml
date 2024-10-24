@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BirdZone</string>
+    <string name="save_observations">Save Observations</string>
+    <string name="observations">Observations</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+</resources>

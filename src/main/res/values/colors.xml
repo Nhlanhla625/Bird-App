@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Palette -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_color">#2196F3</color> <!-- Light Blue -->
+    <color name="primary_dark_color">#1976D2</color> <!-- Darker Blue -->
+    <color name="primary_light_color">#BBDEFB</color> <!-- Lighter Blue -->
+
+    <!-- Secondary Palette -->
+    <color name="secondary_color">#FFC107</color> <!-- Amber -->
+    <color name="secondary_dark_color">#FFA000</color> <!-- Darker Amber -->
+    <color name="secondary_light_color">#FFD54F</color> <!-- Lighter Amber -->
+
+    <!-- Accent and Emphasis Colors -->
+    <color name="accent_color">#FF4081</color> <!-- Pink Accent -->
+    <color name="success_color">#4CAF50</color> <!-- Green Success -->
+    <color name="warning_color">#FF5722</color> <!-- Orange Warning -->
+    <color name="error_color">#F44336</color> <!-- Red Error -->
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1E88E5</color> <!-- Light Blue for primary text -->
+    <color name="text_secondary">#757575</color> <!-- Grey for secondary text -->
+    <color name="text_on_primary">#FFFFFFFF</color> <!-- White for text on primary backgrounds -->
+    <color name="text_on_secondary">#000000</color> <!-- Black for text on secondary backgrounds -->
+
+    <!-- Background Colors -->
+    <color name="background_color">#FFFFFF</color> <!-- White background -->
+    <color name="background_light_color">#F5F5F5</color> <!-- Light grey background -->
+    <color name="background_dark_color">#303030</color> <!-- Dark background for night mode -->
+    <color name="card_background_color">#FAFAFA</color> <!-- Card background color -->
+
+    <!-- Ripple Effect Colors -->
+    <color name="ripple_color">#40FFFFFF</color> <!-- Translucent white ripple for touch feedback -->
+    <color name="ripple_primary">#40BBDEFB</color> <!-- Light Blue ripple on primary elements -->
+    <color name="ripple_secondary">#40FFD54F</color> <!-- Amber ripple on secondary elements -->
+
+    <!-- Splash and Special Backgrounds -->
+    <color name="splash_background">#FFFFFF</color> <!-- White splash screen background -->
+    <color name="highlight_color">#FFEB3B</color> <!-- Yellow highlight for special elements -->
+
+    <!-- Shadow Colors for Elevated Components -->
+    <color name="shadow_light">#33000000</color> <!-- Light shadow for card views -->
+    <color name="shadow_dark">#66000000</color> <!-- Darker shadow for stronger elevation -->
+
+    <!-- Primary branding color for the app -->
+    <color name="colorPrimary">#6200EE</color>
+    <!-- Secondary accent color -->
+    <color name="secondaryColor">#03DAC5</color>
+    <!-- Color for icons/text in BottomNavigationView -->
+    <color name="bottom_nav_item_color">#FFFFFF</color>
+    <!-- Background for BottomNavigationView -->
+    <color name="bottom_nav_background">#3700B3</color>
+    <!-- Color for the FAB -->
+    <color name="fab_color">#6200EE</color>
+</resources>

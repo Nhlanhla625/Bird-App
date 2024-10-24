@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674994990627",
+    "project_id": "birdzone-b61a6",
+    "storage_bucket": "birdzone-b61a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674994990627:android:e2551e2b06cafda8670b96",
+        "android_client_info": {
+          "package_name": "com.example.birdzone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpzchLoqPLINGQ-XD9lYkI2RzEBY557Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
